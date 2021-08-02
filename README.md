@@ -1,2 +1,3 @@
 - 👋 Hi, I’m @CMDCONN
 - I feel like death 
+- Love Being part of the code community
